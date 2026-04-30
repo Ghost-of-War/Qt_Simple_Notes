@@ -1,0 +1,8 @@
+build/
+.qtc_clangd/
+*.user
+*.exe
+*.obj
+*.a
+.ninja_deps
+.ninja_log
